@@ -71,6 +71,7 @@ ul li:nth-child(1) a {
     transform: translate(-50%, -50%);
     text-align: center;
     font-weight: bolder;
+    text-shadow: 2px 2px 5px orange;
 
 }
 
@@ -83,9 +84,10 @@ ul li:nth-child(1) a {
 }
 
 .header p {
-    color: rgb(247, 246, 250);
+    color: rgb(250, 247, 246);
     font-size: 24px;
     font-weight: normal;
+    text-shadow: 2px 2px 5px rgb(250, 9, 9);
 }
 
 .header button {
