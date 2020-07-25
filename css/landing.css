@@ -33,12 +33,16 @@ body{
     font-size: 22px;
     line-height: 80px;
     padding: 0 10 em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 
 .menu {
     float: right;
     line-height: 50px;
     margin: 0 2 em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 
 .menu ul {
