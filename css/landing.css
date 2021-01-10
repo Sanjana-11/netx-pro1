@@ -98,7 +98,7 @@ ul li:nth-child(1) a {
     color: #fff;
     background: #5f101b;
     padding: 18px 38px;
-    border: none;
+    border-radius: 25px;
     font-size: 14px;
     margin-top: 10px;
     font-family: "lucida console",monaco,monospace;
